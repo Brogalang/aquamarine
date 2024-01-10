@@ -110,14 +110,17 @@
             <!--/.card -->
           </div>
           <!--/column -->
-          <div class="col-lg-6 offset-md-1 col-xl-5 text-center text-lg-start" data-cues="slideInDown" data-group="page-title" data-delay="600">
+          <div class="col-lg-6 offset-md-right-2 col-xl-5 text-center text-lg-end" data-cues="slideInDown" data-group="page-title" data-delay="600">
             <h1 class="display-1 mb-5">Deteksi Dini Penyakit Udang</h1>
-            <h1 class="display-1 mb-5">Tingkatkan Profit Tambak Udang Anda</h1>
-            <p class="lead fs-25 lh-sm mb-7 px-md-10 px-lg-0">Hello! I'm Julia, a freelance user interface designer & developer based in London. I’m very passionate about the work that I do.</p>
-            <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
-              <span><a href="#" class="btn btn-lg btn-primary rounded-pill me-2">See My Works</a></span>
-              <span><a href="#" class="btn btn-lg btn-outline-primary rounded-pill">Contact Me</a></span>
+            <h1 class="display-1 mb-5">Tingkatkan Profit Tambak <br>Udang Anda</h1>
+            <p class="lead fs-23 lh-sm mb-7 px-md-10 px-lg-0">Deteksi dini penyakit udang dibutuhkan untuk mengambil keputusan cepat: meningkatkan produksi budidaya tambak udang, mitigasi risiko penyakit udang dan mencegah kerugian bisnis. Teknologi diagnostik kami dapat mendeteksi penyakit udang secara akurat dan lebih cepat dari timbulnya gejala pada udang.</p>
+            <div class="d-flex justify-content-center justify-content-lg-end align-self-flex-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
+              <span></span>
+              <span><a href="#" class="btn btn-lg btn-danger rounded-pill me-2">Kirim Sample</a></span>
             </div>
+          </div>
+          <div class="col-sm-1">
+            <h1></h1>
           </div>
           <!--/column -->
         </div>
