@@ -83,7 +83,7 @@
                                <a class="nav-link scroll active" href="#beranda">Beranda</a>
                              </li>
                              <li class="nav-item">
-                               <a class="nav-link scroll" href="#beranda2">Produk</a>
+                               <a class="nav-link scroll" href="#product">Produk</a>
                               </li>
                               <li class="nav-item">
                                 <a class="nav-link scroll" href="#testimoni">Testimoni</a>
@@ -163,7 +163,7 @@
             <!-- /.container -->
          </section>
          <!-- /section -->
-         <section class="wrapper bg-light" id="beranda2">
+         <section class="wrapper bg-light" id="">
             <div class="container-fluid custom-container py-14 py-14 py-md-18 col-lg-10 ">
                <div class="row gx-lg-8 gx-xl-12  mb-10 text-center">
                   <!--/column -->
@@ -194,7 +194,7 @@
             <!-- /.container -->
          </section>
          <!-- /section -->
-         <section class="wrapper bg-light" id="testimoni">
+         <section class="wrapper bg-light" id="">
             <div class="container-fluid custom-container py-14 py-md-8 col-lg-10">
                <!--/.row -->
                <div class="card bg-white mb-15 col-md-7 col-lg-12">
@@ -384,12 +384,8 @@
                   <!--/column -->
                   <!-- <div class="row col-lg-6"> -->
                   <h2 class="display-4 mb-3">
-                     <span class="custom-font">
-                     Patogen
-                     </span>
-                     <span class="custom-font-red">
-                     Penyakit Udang
-                     </span>
+                     <span class="custom-font">Patogen</span>
+                     <span class="custom-font-red">Penyakit Udang</span>
                   </h2>
                   <div class="col-lg-8">
                      <p class="lead fs-20 mb-5 custom-font">Kemajuan teknologi genomik-molekuler dapat mendeteksi berbagai macam patogen penyebab penyakit udang.</p>
@@ -411,8 +407,140 @@
             </div>
             <!-- /.container -->
          </section>
+         <!-- / . pantogen penyakit udang -->
+         <!-- Carousel -->
+         <section id="testimoni" class="wrapper pt-16">
+            <div class="card">
+              <div class="card-body">
+                <div class="text-center">
+                  <h2 class="display-5">
+                    <span class="custom-font-red">Apa Kesan Mereka Yang Telah Melakukan</span><br>
+                    <span class="custom-font">Tes Penyakit Udang Di GSI ?</span>
+                  </h2>
+                </div>
+                <div class="swiper-container dots-closer blog grid-view mb-6" data-margin="0" data-nav="true" data-dots="true" data-items-md="2" data-items-xs="1">
+                  <div class="swiper">
+                    <div class="swiper-wrapper">
+                      <div class="swiper-slide">
+                        <div class="item-inner">
+                          <article>
+                            <div class="card p-4 pb-10">
+                              <div class="card-body">
+                                <div class="row text-center">
+                                  <!-- <img src="<?php echo base_url('template') ?>/assets/img/gsi/testimoni.png" class="w-10 h-10" /> -->
+                                  <div class="col-md-2 text-center">
+                                    <img src="<?php echo base_url('template') ?>/assets/img/icons/lineal/user.svg" class="svg w-8 h-8" alt="" />
+                                  </div>
+                                  <div class="col-md-4">
+                                    <h5 class="display-9 custom-font">Amy A.J</h5>
+                                    <p class="custom-font">Indonesia</p>
+                                  </div>
+                                </div>
+                                <p>"Sangat membantu, pelayanannya ramah, harga sesuai tarif dan hasilnya sangat cepat dan akurat. Terimakasih GSI"</p>
+                              </div>
+                              <!--/.card-body -->
+                            </div>
+                            <!-- /.card -->
+                          </article>
+                          <!-- /article -->
+                        </div>
+                        <!-- /.item-inner -->
+                      </div>
+                      <!--/.swiper-slide -->
+                      <div class="swiper-slide">
+                        <div class="item-inner">
+                          <article>
+                          <div class="card p-4 pb-10">
+                              <div class="card-body">
+                                <div class="row text-center">
+                                  <!-- <img src="<?php echo base_url('template') ?>/assets/img/gsi/testimoni.png" class="w-10 h-10" /> -->
+                                  <div class="col-md-2 text-center">
+                                    <img src="<?php echo base_url('template') ?>/assets/img/icons/lineal/user.svg" class="svg w-8 h-8" alt="" />
+                                  </div>
+                                  <div class="col-md-4">
+                                    <h5 class="display-9 custom-font">Amy A.J</h5>
+                                    <p class="custom-font">Indonesia</p>
+                                  </div>
+                                </div>
+                                <p>"Sangat membantu, pelayanannya ramah, harga sesuai tarif dan hasilnya sangat cepat dan akurat. Terimakasih GSI"</p>
+                              </div>
+                              <!--/.card-body -->
+                            </div>
+                            <!-- /.card -->
+                          </article>
+                          <!-- /article -->
+                        </div>
+                        <!-- /.item-inner -->
+                      </div>
+                      <!--/.swiper-slide -->
+                      <div class="swiper-slide">
+                        <div class="item-inner">
+                          <article>
+                          <div class="card p-4 pb-10">
+                              <div class="card-body">
+                                <div class="row text-center">
+                                  <!-- <img src="<?php echo base_url('template') ?>/assets/img/gsi/testimoni.png" class="w-10 h-10" /> -->
+                                  <div class="col-md-2 text-center">
+                                    <img src="<?php echo base_url('template') ?>/assets/img/icons/lineal/user.svg" class="svg w-8 h-8" alt="" />
+                                  </div>
+                                  <div class="col-md-4">
+                                    <h5 class="display-9 custom-font">Amy A.J</h5>
+                                    <p class="custom-font">Indonesia</p>
+                                  </div>
+                                </div>
+                                <p>"Sangat membantu, pelayanannya ramah, harga sesuai tarif dan hasilnya sangat cepat dan akurat. Terimakasih GSI"</p>
+                              </div>
+                              <!--/.card-body -->
+                            </div>
+                            <!-- /.card -->
+                          </article>
+                          <!-- /article -->
+                        </div>
+                        <!-- /.item-inner -->
+                      </div>
+                      <!--/.swiper-slide -->
+                      <div class="swiper-slide">
+                        <div class="item-inner">
+                          <article>
+                            <div class="card">
+                            <div class="card p-4 pb-10">
+                              <div class="card-body">
+                                <div class="row text-center">
+                                  <!-- <img src="<?php echo base_url('template') ?>/assets/img/gsi/testimoni.png" class="w-10 h-10" /> -->
+                                  <div class="col-md-2 text-center">
+                                    <img src="<?php echo base_url('template') ?>/assets/img/icons/lineal/user.svg" class="svg w-8 h-8" alt="" />
+                                  </div>
+                                  <div class="col-md-4">
+                                    <h5 class="display-9 custom-font">Amy A.J</h5>
+                                    <p class="custom-font">Indonesia</p>
+                                  </div>
+                                </div>
+                                <p>"Sangat membantu, pelayanannya ramah, harga sesuai tarif dan hasilnya sangat cepat dan akurat. Terimakasih GSI"</p>
+                              </div>
+                              <!--/.card-body -->
+                            </div>
+                              <!--/.card-body -->
+                            </div>
+                            <!-- /.card -->
+                          </article>
+                          <!-- /article -->
+                        </div>
+                        <!-- /.item-inner -->
+                      </div>
+                      <!--/.swiper-slide -->
+                    </div>
+                    <!--/.swiper-wrapper -->
+                  </div>
+                  <!-- /.swiper -->
+                </div>
+                <!-- /.swiper-container -->
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </section>
+         <!-- / . Carousel -->
       </div>
-      <!-- / . pantogen penyakit udang -->
       <!-- /.content-wrapper -->
       <footer>
          <div class="container pt-14 pt-md-18 pb-7">
