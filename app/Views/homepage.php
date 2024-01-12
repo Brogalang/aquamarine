@@ -79,7 +79,7 @@
                    <div class="navbar-collapse-wrapper bg-white d-flex flex-row flex-nowrap w-100 justify-content-between align-items-center">
                       <div class="navbar-brand w-100">
                          <a class="scroll" href="#beranda">
-                         <img src="<?php echo base_url('template') ?>/assets/img/LOGO GENOMIC SHRIMP UTAMA.png" srcset="<?php echo base_url('template') ?>/assets/img/logo-dark@2x.png 2x" alt="" />
+                         <img src="<?php echo base_url('template') ?>/assets/img/LOGO GENOMIC SHRIMP UTAMA.png" srcset="<?php echo base_url('template') ?>/assets/img/LOGO GENOMIC SHRIMP UTAMA.png 2x" alt="" />
                          </a>
                       </div>
                       <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
